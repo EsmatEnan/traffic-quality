@@ -1,2 +1,2 @@
 # traffic-quality
-use of different python tools to assess the traffic quality
+Use of different python tools and packages to assess the traffic quality.
